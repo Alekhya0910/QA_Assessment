@@ -10,10 +10,10 @@ Functionality of the other links present on the application like – Track Bug, 
 #Concepts Included 
 1)Shared state across cucumber step definitions 
 2) Dependency injection 
-3) 3) Page Object pattern 
-4) 4) Common web page interaction methods 
-5) 5) Mavenised tests 
-6) 6) Commonly used test utility classes
+3) Page Object pattern 
+4) Common web page interaction methods 
+5) Mavenised tests 
+6) Commonly used test utility classes
 
 ###Tools
 
